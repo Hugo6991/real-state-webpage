@@ -1,6 +1,6 @@
 - Tutorial by [React Responsive Real Estate Website Tutorial Using ReactJs | React Projects for Beginners | Deploy](https://youtu.be/edBx-fjgh4k?si=m-VjRNT-PLOPQCD2)
-- [Demo Site](https://real-estate-web.pages.dev/)
-
+- [Demo Site - by Author](https://real-estate-web.pages.dev/)
+- [My work on vercel](https://real-state-webpage.vercel.app/)
 
 
 
